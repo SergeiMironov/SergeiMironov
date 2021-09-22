@@ -1,8 +1,7 @@
 ### Hi there 👋
-
+### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
 <!--
 **SergeiMironov/SergeiMironov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### Привет-привет! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://vk.com/mironovsu">
   <img align="left" alt="VKontakte" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />
 </a>
@@ -28,7 +25,7 @@ Here are some ideas to get you started:
 
 <br />
 
-Привет, меня зовут Сергей Миронов, я инженер-программист (Backend C# Middle) в компании "ИМЕДИА СОФТ".Продолжаю учится и постигать интересные мне технологии.
+Привет, меня зовут Сергей Миронов, я инженер-программист (Backend C# Middle) в компании "ИМЕДИА СОФТ". Продолжаю учится и постигать интересные мне технологии.
 
 <br />
   
